@@ -1,5 +1,28 @@
-# 💫 Hi 👋, I'm Muhammad Faisal
-**Engr**
+<!-- Social Media Icons -->
+[1.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-linkedin-48.png
+[2.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-github-48.png
+[3.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-twitter-48.png
+
+[1]: https://www.linkedin.com/in/muhammadfaisal19/
+[2]: https://www.github.com/muhammadfaisal19/
+[3]: https://www.x.com/x
+
+<div align="center">
+
+# 💫 Muhammad Faisal
+
+### Engineer | Let's build something together
+
+[![LinkedIn][1.1]][1] [![GitHub][2.1]][2] [![Twitter][3.1]][3]
+
+📍 Gurugram, Haryana, India • 📧 xyz@gmail.com
+
+"Excited to learn, contribute, and collaborate on engineering projects that drive meaningful impact."
+
+</div>
+
+---
+
 
 <!-- Snake Game Repo View -->
 
