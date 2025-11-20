@@ -30,10 +30,13 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+---
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img width="663" height="113" alt="GitTrophies" src="https://github.com/user-attachments/assets/8c091019-53e1-46ec-8c97-6f7860e33c77" />
+<img width="908" height="154" alt="GitTrophies2" src="https://github.com/user-attachments/assets/bd370352-a456-4203-8cf1-3c1bb65ab20d" />
 
-
+---
 <!-- MNC's Repo View -->
 
 <p align="center">
