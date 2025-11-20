@@ -15,7 +15,7 @@
 
 [![LinkedIn][1.1]][1] [![GitHub][2.1]][2] [![Twitter][3.1]][3]
 
-📍 Gurugram, Haryana, India • 📧 xyz@gmail.com
+📍 Gurugram, Haryana, India 
 
 "Excited to learn, contribute, and collaborate on engineering projects that drive meaningful impact."
 
