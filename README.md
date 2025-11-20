@@ -9,7 +9,7 @@
 
 <div align="center">
 
-# 💫 Muhammad Faisal
+# 💫 MUHAMMAD FAISAL
 
 ### Engineer | Let's build something together
 
