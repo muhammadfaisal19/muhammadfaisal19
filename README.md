@@ -1,25 +1,36 @@
-<!-- Social Media Icons -->
-[1.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-linkedin-48.png
-[2.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-github-48.png
-[3.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-twitter-48.png
-
-[1]: https://www.linkedin.com/in/muhammadfaisal19/
-[2]: https://www.github.com/muhammadfaisal19/
-[3]: https://www.x.com/x
-
 <div align="center">
 
-# 💫 MUHAMMAD FAISAL
-
+# 💫 MUHAMMAD FAISAL  
 ### Engineer | Let's build something together
 
-[![LinkedIn][1.1]][1] [![GitHub][2.1]][2] [![Twitter][3.1]][3]
+<!-- Social Icons Row -->
+<a href="https://www.linkedin.com/in/muhammadfaisal19/">
+  <img src="https://github.com/muhammadfaisal19/muhammadfaisal19/blob/main/assets-icon/linkedin.png" width="32" height="32">
+</a>
+<a href="https://github.com/muhammadfaisal19">
+  <img src="https://github.com/muhammadfaisal19/muhammadfaisal19/blob/main/assets-icon/github.png" width="32" height="32">
+</a>
+<a href="https://x.com/your_username">
+  <img src="https://github.com/muhammadfaisal19/muhammadfaisal19/blob/main/assets-icon/x.png" width="32" height="32">
+</a>
+<a href="https://discord.com/users/your_user_id">
+  <img src="https://github.com/muhammadfaisal19/muhammadfaisal19/blob/main/assets-icon/discord.png" width="32" height="32">
+</a>
+<a href="mailto:your_email@gmail.com">
+  <img src="https://github.com/muhammadfaisal19/muhammadfaisal19/blob/main/assets-icon/gmail.png" width="32" height="32">
+</a>
+<a href="https://google.com">
+  <img src="https://github.com/muhammadfaisal19/muhammadfaisal19/blob/main/assets-icon/google.png" width="32" height="32">
+</a>
 
-📍 Gurugram, Haryana, India 
+<br><br>
 
-"Excited to learn, contribute, and collaborate on engineering projects that drive meaningful impact."
+📍 **Gurugram, Haryana, India**
+
+*"Excited to learn, contribute, and collaborate on engineering projects that drive meaningful impact."*
 
 </div>
+
 
 ---
 
