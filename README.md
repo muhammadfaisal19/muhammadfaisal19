@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 MUHAMMAD FAISAL  
+#  Muhammad Faisal 
 ### Engineer | Let's build something together
 
 <!-- Social Icons Row -->
